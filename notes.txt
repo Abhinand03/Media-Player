@@ -1,0 +1,41 @@
+   Media Player
+-------------------
+ ->Landing
+    -header
+    -footer
+
+->dashboard
+    -header
+    -footer
+    -add video
+    -list video
+    -categoery
+
+->history
+
+
+
+1.Landing page intro
+2.add youtube videos
+3.list added videos
+4.paly added videos
+5.delete added videos
+6.add categoery
+7.list categoery
+8.list categoery video
+9.add video to categoery
+10.delete categoery
+11.list watch history
+
+->project craete
+->clean up
+->baic css
+->react-bootsrap install
+    npm install react-bootsrap bootsrap
+->set bootsrap theme
+    bootsrapwatch.com
+->page & component
+->Routing of pages and components
+
+-react-router-dom
+npm i react-router-dom
